@@ -19,6 +19,7 @@ ul.navigation li a{
 ul.navigation li{
      flex: 1;
      padding: 1px;
+     margin: 1px;
      background-color: #1e1e3d;
      border: 1px #0d0d1f;
      border-radius: 2px;
