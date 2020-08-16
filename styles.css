@@ -17,7 +17,7 @@ ul.navigation li a{
      color: #54cca1;
 }
 ul.navigation li{
-     flex: 1 0 5em;
+     flex: 1 0 1em;
      padding: 1px;
      margin: 1px;
      background-color: #1e1e3d;
