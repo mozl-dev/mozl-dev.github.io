@@ -21,6 +21,7 @@ ul.navigation li{
      list-style: none;
 }
 ul.navigation{
+     width: 10em + 10px;
      color: #54cca1;
      padding: 5px;
      background-color: #264a52;
