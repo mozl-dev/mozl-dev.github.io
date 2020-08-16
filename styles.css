@@ -15,15 +15,13 @@ ul.navigation li{
      weight: 3em;
      background-color: #1e1e3d;
      text-decoration: none;
-     border: 1px;
+     border: 1px #0d0d1f;
      border-radius: 2px;
      list-style: none;
 }
 ul.navigation{
      color: #54cca1;
      background-color: #264a52;
-     text-decoration: none;
-     border: 1px;
+     border: 1px #0d0d1f;
      border-radius: 2px;
-     list-style: none;
 }
