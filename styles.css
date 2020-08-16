@@ -13,6 +13,7 @@ h1{
 }
 ul.navigation li{
      width: 10em;
+     padding: 1px;
      background-color: #1e1e3d;
      text-decoration: none;
      border: 1px #0d0d1f;
