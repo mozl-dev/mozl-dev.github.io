@@ -4,13 +4,18 @@ body{
      color: #54cca1;
 }
 h1{
-   height: 1.3em;
-   font-size: 200%;
-   text-align: center;
-   border-radius: 5px;
-   background-color: #1e1e3d;
-   color: #4db08c;
+     height: 1.3em;
+     padding: 1.5em;
+     font-size: 200%;
+     text-align: center;
+     border-radius: 5px;
+     background-color: #1e1e3d;
+     color: #4db08c;
 }
 ul.navigation li{
-     
+     color: #54cca1;
+     background-color: #1e1e3d;
+     text-decoration: none;
+     border: 1px;
+     border-radius: 2px;
 }
